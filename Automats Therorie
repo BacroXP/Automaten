@@ -1,0 +1,6 @@
+Cashdesk in the Supermarket:
+
+q1:  Adds the items cost
+q2:  Waits for the button press.
+q3:  Opens the closet
+q4:  Repeat when the closet is closed
